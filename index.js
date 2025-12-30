@@ -6,8 +6,8 @@ import dotenv from "dotenv"
 dotenv.config()
 
 /* ================= CONFIG ================= */
-const BOT_TOKEN = process.env.BOT_TOKEN
-const ADMIN_ID = Number(process.env.ADMIN_ID)
+const BOT_TOKEN = process.env.8545790505:AAF9zmut0HAmxVLzxk1LVOsQJQKgh0SLqXY
+const ADMIN_ID = Number(process.env.8568466595)
 const DOMAIN = process.env.DOMAIN
 const PORT = process.env.PORT || 3000
 
