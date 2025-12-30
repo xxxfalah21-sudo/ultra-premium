@@ -11,8 +11,8 @@ Bot Telegram webhook ready dengan fitur:
 1. Buat Bot di Telegram lewat @BotFather  
 2. Clone / Upload repo ini  
 3. Isi ENV di Railway:
-   - BOT_TOKEN
-   - ADMIN_ID
+   - 8545790505:AAF9zmut0HAmxVLzxk1LVOsQJQKgh0SLqXY
+   - 8568466595
    - DOMAIN
    - PORT
 4. Start project dengan `npm install` lalu `npm start`
